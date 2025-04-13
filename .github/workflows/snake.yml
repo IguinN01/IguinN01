@@ -6,7 +6,7 @@ permissions:
 on:
   schedule:
     - cron: "0 0 * * *"  
-  workflow_dispatch: 
+  workflow_dispatch:  
 
 jobs:
   generate:
@@ -22,8 +22,7 @@ jobs:
           github_user_name: IguinN01
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=%2347e0ff,ffffff,cccccc,888888 # Paleta personalizada
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
