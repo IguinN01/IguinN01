@@ -21,8 +21,9 @@ jobs:
         with:
           github_user_name: IguinN01
           outputs: |
-            svg_out_path: dist/github-contribution-grid-snake2.svg
-            snake_color: 'blue'
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?color_snake=orange&color_dots=#575757,#74cc8f,#44a662,#228240,#065e21
+            dist/ocean.svg?color_snake=orange&color_dots=rgba(191,214,246,0.2),#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
