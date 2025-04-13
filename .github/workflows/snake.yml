@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: IguinN01
           outputs: dist/github-contribution-grid-snake.svg
-          palette: "#47e0ff,#ffffff,#cccccc,#888888"   
+          color_snake: "#47e0ff"   
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
