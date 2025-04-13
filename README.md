@@ -13,7 +13,7 @@
   
 <div>
     <a href = "mailto:igoroliv03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-47e0ff?style=for-the-badge&logo=gmail&logoColor=gray"></a>
-    <a href="curriculo" target="_blank"><img src="https://img.shields.io/badge/-Currículo-%23334?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+    <a href="Curriculo_Igor_Oliveira_da_Silva.pdf" target="_blank"><img src="https://img.shields.io/badge/-Currículo-%23334?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 </div>
 
 ---
