@@ -10,9 +10,10 @@
 - 🎓 Estudante de **Ciência da Computação** na **Universidade Nove de Julho (UNINOVE)**
 - 📖 **5º semestre** | Conclução em Dez/2026
 - 🎯 Em busca da primeira oportunidade como desenvolvedor júnior, em busca de aprender mais e criar soluções que façam a diferença
+  
 <div>
-    <a href = "mailto:igoroliv03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23334?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = ""><img src="https://img.shields.io/badge/-Currículo-%23334?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:igoroliv03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-47e0ff?style=for-the-badge&logo=gmail&logoColor=gray" target="_blank"></a>
+    <a href="file:///C:/Users/igorp/AppData/Local/Microsoft/Windows/INetCache/IE/L0MB30MU/Curriculo_Igor_2-paginas[1].pdf"><img src="https://img.shields.io/badge/-Currículo-%23334?style=for-the-badge&logo=readthedocs&logoColor=white" target="_blank"></a>
 </div>
 
 ---
@@ -37,5 +38,3 @@
     </div>
     <img src="https://github.com/IguinN01/IguinN01/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
-  
----
