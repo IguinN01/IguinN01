@@ -12,8 +12,8 @@
 - 🎯 Em busca da primeira oportunidade como desenvolvedor júnior, em busca de aprender mais e criar soluções que façam a diferença
   
 <div>
-    <a href = "mailto:igoroliv03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-47e0ff?style=for-the-badge&logo=gmail&logoColor=gray" target="_blank"></a>
-    <a href="file:///C:/Users/igorp/AppData/Local/Microsoft/Windows/INetCache/IE/L0MB30MU/Curriculo_Igor_2-paginas[1].pdf"><img src="https://img.shields.io/badge/-Currículo-%23334?style=for-the-badge&logo=readthedocs&logoColor=white" target="_blank"></a>
+    <a href = "mailto:igoroliv03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-47e0ff?style=for-the-badge&logo=gmail&logoColor=gray"></a>
+    <a href="curriculo" target="_blank"><img src="https://img.shields.io/badge/-Currículo-%23334?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 </div>
 
 ---
