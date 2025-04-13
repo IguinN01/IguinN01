@@ -5,8 +5,8 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
-  workflow_dispatch:  
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -20,9 +20,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: IguinN01
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.svg?palette=%2347e0ff,ffffff,cccccc,888888 # Paleta personalizada
+          outputs: dist/github-contribution-grid-snake.svg
+          palette: "#47e0ff,#ffffff,#cccccc,#888888"   
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
