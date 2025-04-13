@@ -16,6 +16,29 @@
 
 ### ✨ Minhas Contribuições
 
-![snake gif](https://github.com/IguinN01/IguinN01/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+    <img src="https://github.com/IguinN01/IguinN01/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+    <p> </p> 
+    <img src="https://github-readme-stats.vercel.app/api?username=IguinN01&show_icons=true&include_all_commits=true&count_private=true&theme=nord&rank_icon=github" height="150" alt="Estatísticas GitHub" />  
+</div>
+  
+---
+
+### 🌐 Meus Conhecimentos
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IguinN01&layout=compact&langs_count=20&theme=nord" alt="Github top linguagens" height="150" />
+    </td>
+  </tr>
+</table>
 
 ---
